@@ -1,0 +1,2 @@
+# proxy
+squid proxy cache 
